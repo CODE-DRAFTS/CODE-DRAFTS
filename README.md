@@ -11,7 +11,7 @@
 
 - I’m looking to collaborate on **an awesome project idea**
 
-- 💬 Ask me about **Fastapi react vue.js Django Flask Quasar**
+- 💬 Ask me about **Fastapi  react  vue.js  Django  Flask  Quasar Python Node**
 
 - 📫 How to reach me **bernardnjerumtwaiti@gmail.com**
 
